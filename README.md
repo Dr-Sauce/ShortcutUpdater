@@ -6,5 +6,19 @@ This shortcut updater gets the latest version from GitHub releases. To make this
 
 This shortcut is designed to work with my own shortcuts.
 
+# Q&A:
+
+**○ The file doesn't exist.**
+
+Make sure iCloud Drive is enabled. (**Settings →** Your profile **→ iCloud →** Enable **iCloud Drive**)
+
+**○ Why doesn't Shortcut Updater use GitHub API (instead of loading the whole release page)?**
+
+GitHub API is faster but has hourly limits. (I don't want people compaling about they're getting an error.)
+
+**○ How does Shortcut Updater manage the heavy code?**
+
+Shortcut Updater has a day counting system. It only runs the update action when 7 days pass. (You can change the day settings.)
+
 # Source:
 [u/robric18](https://www.reddit.com/user/robric18) ([Silent Updater](https://www.reddit.com/r/shortcuts/comments/k094tf/shortcut_updater_tutorial/))

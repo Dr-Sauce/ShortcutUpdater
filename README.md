@@ -18,7 +18,7 @@ GitHub API is faster but has limits. (I don't want people complaining about they
 
 **○ How does Shortcut Updater manage the heavy code?**
 
-Shortcut Updater has a day counting system. It only runs the update action when 7 days pass. (You can change the day settings.)
+Shortcut Updater only runs the update action when 7 days have passed. (You can change the day settings.)
 
 # Source:
 [u/robric18](https://www.reddit.com/user/robric18) ([Silent Updater](https://www.reddit.com/r/shortcuts/comments/k094tf/shortcut_updater_tutorial/))

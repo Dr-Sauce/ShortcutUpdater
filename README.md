@@ -14,7 +14,7 @@ Make sure iCloud Drive is enabled. (**Settings →** Your profile **→ iCloud �
 
 **○ Why doesn't Shortcut Updater use GitHub API (instead of loading the whole release page)?**
 
-GitHub API is faster but has hourly limits. (I don't want people compaling about they're getting an error.)
+GitHub API is faster but has limits. (I don't want people complaining about they're getting an error.)
 
 **○ How does Shortcut Updater manage the heavy code?**
 

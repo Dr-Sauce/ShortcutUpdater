@@ -1,5 +1,4 @@
 # ShortcutUpdater
-A shortcut updater that gets the shortcut latest version from GitHub
 
 I created Shortcut Updater because I wasn't satisfied with the shortcut updaters on the internet which uses third party APIs. (Third party APIs require shortcuts to be uploaded to their own site. Since I upload shortcuts on GitHub, I didn't want to upload to two different places.)
 

@@ -4,7 +4,7 @@ I created Shortcut Updater because I wasn't satisfied with the shortcut updaters
 
 This shortcut updater gets the latest version from GitHub releases. To make this possible the shortcut loads the whole page of the repository's release page. This makes the shortcut much heavier than other shortcut updaters which just works with a few actions. But to make it work like magic, I chose to make it like this.
 
-This shortcut is designed to work with my own shortcuts.
+This shortcut is designed to work with SAUCE COMPANY shortcuts. But feel free to use it for your shortcuts.
 
 # Q&A:
 

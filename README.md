@@ -1,4 +1,4 @@
-# ShortcutUpdater
+# Shortcut Updater
 
 Shortcut Updater was created because I wasn't satisfied with the shortcut updaters that use third party APIs. (Third party APIs require shortcuts to be uploaded to their own site. Since I upload shortcuts on GitHub, I didn't want to upload to two different places.)
 

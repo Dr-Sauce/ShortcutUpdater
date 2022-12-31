@@ -17,9 +17,7 @@ Update your shortcut using GitHub.
 3. Done.
 
 # How does it work?
-- Shortcut Updater checks the latest version tag of the shortcut and compares it to the shortcut version saved on the users device. 
-
-If there's a new version, Shortcut Updater will get the iCloud link from the latest release description on GitHub.
+- Shortcut Updater checks the latest version tag of the shortcut and compares it to the shortcut version saved on the users device. If there's a new version, Shortcut Updater will get the iCloud link from the latest release description on GitHub.
 
 # Note:
 - Shortcut Updater uses iCloud Drive by default to store log files. (Users have to enable iCloud Drive. If it's not enabled, a popup will appear.)

@@ -22,7 +22,7 @@ Update your shortcut using GitHub.
 If there's a new version, Shortcut Updater will get the iCloud link from the latest release description on GitHub.
 
 # Note:
-- Shortcut Updater uses iCloud Drive by default to store log files. (Users iCloud Drive needs to enabled. If it's not enabled, a popup will appear.)
+- Shortcut Updater uses iCloud Drive by default to store log files. (Users have to enable iCloud Drive. If it's not enabled, a popup will appear.)
 - This shortcut uses GitHub API. The API limit is 60 times per hour, per IP.
 
 # Source:

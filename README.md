@@ -6,7 +6,7 @@ Update your shortcut using GitHub.
 
 # Features:
 - Check for update every ? days.
-- Skip update check if there's no internet.
+- Skip update check if there's no internet connection.
 - Check for update manually.
 - Downgrade shortcut.
 - Disable updates.

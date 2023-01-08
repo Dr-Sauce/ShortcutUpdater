@@ -1,6 +1,6 @@
 # Shortcut Updater 
 
-Update your shortcut using GitHub.
+Shortcut Updater compares the version information stored on the user device and fetched version information from GitHub. If there's a new version it shows a option to update.
 
 <img width="150" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
 
@@ -10,9 +10,6 @@ Update your shortcut using GitHub.
 - Check for update manually.
 - Downgrade shortcut.
 - Disable updates.
-
-# How does it work?
-- Shortcut Updater compares the version information stored on the user device and fetched version information from GitHub. If there's a new version it shows a option to update.
 
 # How to use:
 1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)

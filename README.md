@@ -17,7 +17,7 @@ Shortcut Updater compares the version information stored on the user device and 
 |            | Description                                                   | Example            |
 |------------|---------------------------------------------------------------|--------------------|
 | Name       | Enter your shortcut name. This is used for searching updates. | TrollStore Checker |
-| Version    | Enter the version of your shortcut release                    | 2.2                |
+| Version    | Enter the version of your shortcut release.                   | 2.2                |
 | Github     | This is where you enter your GitHub username.                 | Dr-Sauce           |
 | Repository | Enter the repository name for your shortcut.                  | TrollStoreChecker  |
 

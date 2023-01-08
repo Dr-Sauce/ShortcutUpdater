@@ -12,12 +12,27 @@ Update your shortcut using GitHub.
 - Disable updates.
 
 # How to use:
-1. Implement Shortcut Updater to your shortcut. (Make sure to edit the dictionary on the top.)
-2. Upload your shortcut to GitHub releases. (Release title should be 'Shortcut Name 1.0'. And tag should be 1.0. Paste the shortcut iCloud link in the description.)
+1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)
+
+|            | Explanation                                                   | Example            |
+|------------|---------------------------------------------------------------|--------------------|
+| Name       | Enter your shortcut name. This is used for searching updates. | TrollStore Checker |
+| Version    | Enter the version of your shortcut release                    | 1.0                |
+| Github     | This is where you enter your GitHub username.                 | Dr-Sauce           |
+| Repository | Enter the repository name for your shortcut.                  | TrollStoreChecker  |
+
+2. Upload your shortcut to GitHub releases.
+
+|               | Explanation                                                                                                   | Example                                                                                                                                                                                                                                                                                                                   |
+|---------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Release title | Release title should only include the shortcut name and version.                                              | TrollStore Checker 1.0                                                                                                                                                                                                                                                                                                    |
+| Tag           | Tag should only include the version number. It should not include any text or special letters.                | 1.0                                                                                                                                                                                                                                                                                                                       |
+| Body          | Release body should include the shortcut iCloud link. Other text such as explanation, update log are allowed. | **TrollStore Checker 2.2** https://www.icloud.com/shortcuts/c475c0f149fb4ea8b659d7b7ca6ecf48 <br /><br /> **TrollStore Checker 2.2 (한국어)** https://www.icloud.com/shortcuts/0c6d8d6399934ac793d16f767760a25e <br /><br /> # Changelog: <br /> - Added iOS/ iPadOS info when showing software version. <br /> - Added software build behind software version. |
+
 3. Done.
 
 # How does it work?
-- Shortcut Updater checks the latest version tag of the shortcut and compares it to the shortcut version saved on the users device. If there's a new version, Shortcut Updater will get the iCloud link from the latest release description on GitHub.
+- Shortcut Updater compares the latest version with the shortcut version the user is using. If there's a new version, Shortcut Updater will get the iCloud link from the latest release on GitHub.
 
 # Note:
 - Shortcut Updater uses iCloud Drive by default to store log files. (Users have to enable iCloud Drive. If it's not enabled, a popup will appear.)

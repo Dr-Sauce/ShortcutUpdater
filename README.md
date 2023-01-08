@@ -14,7 +14,7 @@ Shortcut Updater compares the version information stored on the user device and 
 # How to use:
 1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)
 
-|            | Explanation                                                   | Example            |
+|            | Description                                                   | Example            |
 |------------|---------------------------------------------------------------|--------------------|
 | Name       | Enter your shortcut name. This is used for searching updates. | TrollStore Checker |
 | Version    | Enter the version of your shortcut release                    | 2.2                |
@@ -23,7 +23,7 @@ Shortcut Updater compares the version information stored on the user device and 
 
 2. Upload your shortcut to GitHub releases.
 
-|               | Explanation                                                                                                   | Example                                                                                                                                                                                                                                                                                                                   |
+|               | Description                                                                                                   | Example                                                                                                                                                                                                                                                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Release title | Release title should only include the shortcut name and version.                                              | TrollStore Checker 2.2                                                                                                                                                                                                                                                                                                    |
 | Tag           | Tag should only include the version number. It should not include any text or special letters.                | 2.2                                                                                                                                                                                                                                                                                                                       |

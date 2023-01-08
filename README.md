@@ -30,7 +30,7 @@ Update your shortcut using GitHub.
 | Body          | Release body should include the shortcut iCloud link. Other text such as explanation, update log are allowed. | **TrollStore Checker 2.2** https://www.icloud.com/shortcuts/c475c0f149fb4ea8b659d7b7ca6ecf48 <br /><br /> **TrollStore Checker 2.2 (한국어)** https://www.icloud.com/shortcuts/0c6d8d6399934ac793d16f767760a25e <br /><br /> # Changelog: <br /> - Added iOS/ iPadOS info when showing software version. <br /> - Added software build behind software version. |
 
 # How does it work?
-- Shortcut Updater compares the latest version with the shortcut version the user is using. If there's a new version, Shortcut Updater will get the iCloud link from the latest release on GitHub.
+- Shortcut Updater compares the latest version with the shortcut the user is using. If there's a new version, Shortcut Updater will get the iCloud link from the latest release on GitHub.
 
 # Note:
 - Shortcut Updater uses iCloud Drive by default to store log files. (Users have to enable iCloud Drive. If it's not enabled, a popup will appear.)

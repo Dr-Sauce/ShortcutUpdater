@@ -12,7 +12,7 @@ Update your shortcut using GitHub.
 - Disable updates.
 
 # How does it work?
-- Shortcut Updater compares the latest version with the shortcut the user is using. If there's a new version, Shortcut Updater will get the iCloud link from the latest release on GitHub.
+- Shortcut Updater compares the version information stored on the user device and fetched version information from GitHub. If there's a new version it shows a option to update.
 
 # How to use:
 1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)

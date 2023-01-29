@@ -14,6 +14,8 @@ Shortcut Updater compares the version information stored on the user device and 
 # How to use:
 1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)
 
+Add the following info to the dictionary on the top of your shortcut.
+
 |            | Description                                                   | Example            |
 |------------|---------------------------------------------------------------|--------------------|
 | Name       | Enter your shortcut name. This is used for searching updates. | TrollStore Checker |

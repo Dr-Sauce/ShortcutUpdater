@@ -18,10 +18,10 @@ Add the following info to the dictionary on the top of your shortcut.
 
 |            | Description                                                   | Example            |
 |------------|---------------------------------------------------------------|--------------------|
-| Name       | Enter your shortcut name. This is used for searching updates. | TrollStore Checker |
-| Version    | Enter the version of your shortcut release.                   | 2.2                |
-| Github     | This is where you enter your GitHub username.                 | Dr-Sauce           |
-| Repository | Enter the repository name for your shortcut.                  | TrollStoreChecker  |
+| Name       | Enter your shortcut name. This is used for searching updates. So you have to enter it correctly. | TrollStore Checker |
+| Version    | Enter the version of your shortcut release.                                                      | 2.2                |
+| Github     | This is where you enter your GitHub username.                                                    | Dr-Sauce           |
+| Repository | Enter the repository name for your shortcut.                                                     | TrollStoreChecker  |
 
 2. Upload your shortcut to GitHub releases.
 

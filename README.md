@@ -1,6 +1,8 @@
 # Shortcut Updater 
 
-Shortcut Updater compares the version information stored on the user device and fetched version information from GitHub. If there's a new version it shows a option to update.
+Shortcut Updater compares the shortcut version on user's device and the latest version from GitHub. 
+
+If there's a new version it shows a option to update.
 
 <img width="150" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
 

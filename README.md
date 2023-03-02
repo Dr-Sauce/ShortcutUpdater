@@ -14,7 +14,7 @@ If there's a new version it shows an option to update.
 - Disable updates.
 
 # How to use:
-1. Implement Shortcut Updater to your shortcut. (Scroll down to find the bit where your shortcut should be added.)
+1. Implement Shortcut Updater to your shortcut.
 
 Add the following info to the dictionary on the top of your shortcut.
 

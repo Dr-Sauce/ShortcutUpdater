@@ -14,7 +14,7 @@ Update shortcuts uploaded to GitHub.
 # How to use:
 1. Implement Shortcut Updater to your shortcut.
 
-Add the following info to the dictionary on the top of your shortcut.
+Add the following info to the dictionary at the start of the shortcut.
 
 |               | Description                                                                                      | Example            |
 |---------------|--------------------------------------------------------------------------------------------------|--------------------|

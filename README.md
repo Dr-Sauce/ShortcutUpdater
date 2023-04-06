@@ -5,8 +5,8 @@ Update shortcuts uploaded to GitHub.
 <img width="150" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
 
 # Features:
-- Check for update. (Skips update check if there's no internet connection)
-- Upgrade/ Downgrade shortcut.
+- Check for update.
+- Upgrade/ Downgrade.
 
 # How to use:
 1. Implement Shortcut Updater to your shortcut.

@@ -28,7 +28,7 @@ Add the following info to the dictionary at the start of the shortcut.
 | Tag (version)           | Enter the version info here. Tag should be the same as the version info you typed in the shortcut.| 2.2                                                                                                                                                                                                                                                                                                                       |
 | Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 2.2** https://www.icloud.com/shortcuts/c475c0f149fb4ea8b659d7b7ca6ecf48 <br /><br /> # Changelog: <br /> - Added iOS/ iPadOS info when showing software version. <br /> - Added software build behind software version. |
 
-# Release note:
+# More information:
 
 Shortcut Updater used to load the whole page of GitHub releases in the background to fetch info. The code was too heavy so I made it only run once a week/month. 
 

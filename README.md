@@ -17,7 +17,7 @@ Add the following info to the dictionary at the start of the shortcut.
 |---------------|--------------------------------------------------------------------------------------------------|--------------------|
 | Name          | Enter the name of your shortcut.| TrollStore Checker |
 | Version       | Enter the version of your shortcut release.                                                      | 2.2                |
-| Github        | This is where you enter your GitHub username.                                                    | Dr-Sauce           |
+| Github        | Enter your GitHub username.                                                    | Dr-Sauce           |
 | Repository    | Enter the repository name for your shortcut.                                                     | TrollStoreChecker  |
 
 2. Upload your shortcut to GitHub releases.

@@ -28,6 +28,20 @@ Add the following info to the dictionary at the start of the shortcut.
 | Tag (version)           | Enter the version info here. Tag should be the same as the version info you typed in the shortcut.| 2.2                                                                                                                                                                                                                                                                                                                       |
 | Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 2.2** https://www.icloud.com/shortcuts/c475c0f149fb4ea8b659d7b7ca6ecf48 <br /><br /> # Changelog: <br /> - Added iOS/ iPadOS info when showing software version. <br /> - Added software build behind software version. |
 
+# Release note:
+
+Shortcut Updater used to load the whole page of GitHub releases in the background to fetch info. The code was too heavy so I made it only run once a week/month. 
+
+But soon I figured out log files were messing up and GitHub API limit(60 times per hour, per IP) wasn't that bad to use. So starting with 1.2.1 I switched the fetching method to GitHub API. And with 1.6 I completely removed auto update check and brought it back with a better method starting with 1.8.
+
+I personally recommend people to use the latest version. But if you want to use older versions check the chart below.
+
+| Version                  | Includes..                                                                                                                                                                                                                                                        | Recommended version |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| Shortcut Updater 1.0~1.5 | Auto update check. (Checks for update every ? days. Stores log files for this)<br><br>Enable/ disable update. (1.1~)<br>Downgrade feature (1.2~)<br>Manually check for update (1.2~)<br>GitHub API (1.2.1~)<br>Update log (1.4~)<br>Add multiple languages (1.5~) | 1.5                 |
+| Shortcut Updater 1.6~1.7 | ‘Auto update check’ removed (To improve stability)<br><br>‘Enable/ disable update’ removed. (Not possible since it doesn’t store logs on device)<br>Upgraded outdated code. (Improved release title, tag fetching process… and more)                              | 1.7                 |
+| Shortcut Updater 1.8~    | Advanced auto update check. (Now checks for update everytime user launches shortcut)<br><br>‘Manually check for update’ removed. (No longer needed)                                                                                                               | Latest version                   |
+
 # Note:
 - ~~Shortcut Updater uses iCloud Drive by default to store log files. (Users have to enable iCloud Drive. If it's not enabled, a popup will appear.)~~
 - This shortcut uses GitHub API. The API limit is 60 times per hour, per IP.

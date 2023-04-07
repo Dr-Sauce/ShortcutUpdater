@@ -1,6 +1,6 @@
 # Shortcut Updater 
 
-Update shortcuts uploaded to GitHub. 
+Update shortcuts using GitHub. 
 
 <img width="150" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
 

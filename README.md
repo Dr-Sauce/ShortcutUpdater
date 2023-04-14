@@ -44,7 +44,7 @@ Shortcut Updater used to load the whole page of GitHub releases in the backgroun
 
 But soon I figured out log files were messy and GitHub API limit(60 times per hour, per IP) wasn't that bad to use. So I removed the old update method and adapted a upgraded version of auto update check starting with 2.0.
 
-I personally recommend people to use the latest version. But if you want to use older versions check the chart below. You'll find some useful info.
+I personally recommend to use the latest version. (The main reason why I am keeping old versions which has spaghetti code in it, is to allow users to try out the downgrading feature) But if you want to use older versions check the chart below. You'll find some useful info.
 
 | Version                  | Includes..                                                                                                                                                                                                                                                        | Recommended version |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|

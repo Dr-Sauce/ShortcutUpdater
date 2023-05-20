@@ -15,7 +15,7 @@ And create a repository for your Shortcut.
 
 2. Get the latest version of **Shortcut Updater** from [releases](https://github.com/Dr-Sauce/ShortcutUpdater/releases/latest). Open it in the Shortcuts app. Now merge **Shortcut Updater** to your shortcut. 
 
-(It is easier to copy and paste using an iPad rather than an iPhone)
+(Use [Join Shortcuts](https://routinehub.co/shortcut/10038/) to merge shortcuts)
 
 3. Add the following info to the dictionary at the top of the shortcut.
 

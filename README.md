@@ -22,7 +22,7 @@ And create a repository for your Shortcut.
 |               | Description                                                                                      | Example            |
 |---------------|--------------------------------------------------------------------------------------------------|--------------------|
 | Name          | Enter the name of your shortcut.| TrollStore Checker |
-| Version       | Enter the version of your shortcut release.                                                      | 2.2                |
+| Version       | Enter the version of your shortcut release.                                                      | 1.1                |
 | Github        | Enter your GitHub username.                                                    | Dr-Sauce           |
 | Repository    | Enter the repository name for your shortcut.                                                     | TrollStoreChecker  |
 
@@ -34,9 +34,9 @@ Make sure to include iCloud link in body text.
 
 |               | Description                                                                                                   | Example                                                                                                                                                                                                                                                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Release title | Enter a nice title for your shortcut release.                                              | TrollStore Checker 2.2                                                                                                                                                                                                                                                                                                     |
-| Tag (version)           | Enter the version info here. Tag should be the same as the version info you typed in the shortcut.| 2.2                                                                                                                                                                                                                                                                                                                       |
-| Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 2.2** https://www.icloud.com/shortcuts/c475c0f149fb4ea8b659d7b7ca6ecf48 <br /><br /> # Changelog: <br /> - Added iOS/ iPadOS info when showing software version. <br /> - Added software build behind software version. |
+| Release title | Enter a nice title for your shortcut release.                                              | TrollStore Checker 1.1                                                                                                                                                                                                                                                                                                     |
+| Tag (version)           | Enter the version info here. Tag should be the same as the version info you typed in the shortcut.| 1.1                                                                                                                                                                                                                                                                                                                       |
+| Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 1.1** <br /> https://www.icloud.com/shortcuts/31e7a02165c6494b8eb557c1939e3020 <br />  <br /> # Changelog: <br /> - Updated TrollStore install methods. <br /> - Added support for iOS 15.6 beta. <br /> - Added support for iOS 15.5 RC, 15.6 RC 1/2. |
 
 # More information:
 

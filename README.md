@@ -1,14 +1,14 @@
 # Shortcut Updater 
 
-Update shortcuts using GitHub. Made for personal use. But feel free to use for your shortcuts.
+Update shortcuts using GitHub.
 
 Designed to work on iOS 15. (But also works on other versions)
 
-<img width="150" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
+<img width="100" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
 
 # Features:
-- Check for update
-- Upgrade/ downgrade
+- Check for updates.
+- Upgrade· downgrade.
 
 # How to use:
 1. [Create a GitHub account](https://github.com/signup) or [login to your account](https://github.com/login).

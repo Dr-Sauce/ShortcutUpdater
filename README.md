@@ -35,6 +35,11 @@ Designed to work on iOS 15. (But also works on other versions)
 | Tag (version)           | Enter the version number here. The tag should match the version number in the top dictionary in your shortcut.| 1.1                                                                                                                                                                                                                                                                                                                       |
 | Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 1.1** <br /> https://www.icloud.com/shortcuts/31e7a02165c6494b8eb557c1939e3020 <br />  <br /> # Changelog: <br /> - Updated TrollStore install methods. <br /> - Added support for iOS 15.6 beta. <br /> - Added support for iOS 15.5 RC, 15.6 RC 1/2. |
 
+# History:
+- **1.x:** Brought the idea of updating shortcuts with GitHub to life with some hacky ways.
+- **2.x:** Implemented GitHub API properly, making `Shortcut Updater` stable.
+- **3.x:** Added VCF menus, which allowed images and subtitles to be shown in menus.
+
 # Note:
 - This shortcut uses GitHub API. The API limit is 60 times per hour, per IP.
 

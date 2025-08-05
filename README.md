@@ -11,33 +11,28 @@ Designed to work on iOS 15. (But also works on other versions)
 - Upgrade· downgrade.
 
 # How to use:
-1. [Create a GitHub account](https://github.com/signup) or [login to your account](https://github.com/login).
+1. [Create a GitHub Account](https://github.com/signup) or [Login to Your Account](https://github.com/login). And create a repository for your Shortcut.
 
-And create a repository for your Shortcut.
+2. Get the latest version of **Shortcut Updater** from [Releases](https://github.com/Dr-Sauce/ShortcutUpdater/releases/latest). Open it in the Shortcuts app. Merge your shortcut with **Shortcut Updater** (You can use [Join Shortcuts](https://routinehub.co/shortcut/10038/) to merge shortcuts)
 
-2. Get the latest version of **Shortcut Updater** from [releases](https://github.com/Dr-Sauce/ShortcutUpdater/releases/latest). Open it in the Shortcuts app. Now merge **Shortcut Updater** to your shortcut. 
-
-Use [Join Shortcuts](https://routinehub.co/shortcut/10038/) to merge shortcuts.
-
-3. Add the following info to the dictionary at the top of the shortcut.
+3. Open the merged shortcut and add the following info to the top dictionary.
 
 |               | Description                                                                                      | Example            |
 |---------------|--------------------------------------------------------------------------------------------------|--------------------|
-| Name          | Enter the name of your shortcut.| TrollStore Checker |
-| Version       | Enter the version of your shortcut release.                                                      | 1.1                |
-| Github        | Enter your GitHub username.                                                    | Dr-Sauce           |
-| Repository    | Enter the repository name for your shortcut.                                                     | TrollStoreChecker  |
+| Name          | Enter the name of your shortcut.                                                                 | TrollStore Checker |
+| Version       | Enter the version of your shortcut.                                                              | 1.1                |
+| Github        | Enter your GitHub username.                                                                      | Dr-Sauce           |
+| Repository    | Enter your shortcut repository name on GitHub.                                                   | TrollStoreChecker  |
+| icon          | Shortcut icon that appears in menus. (Icon needs to be encoded with base64.)                     |                    |
 
-4. Generate iCloud link for your shortcut.
+4. Open `Share` sheet and click `Copy iCloud link`.
 
-5. Open the GitHub repository page you made for your shortcut. Go to releases and create a release.
-
-Make sure to include iCloud link in body text.
+5. Open the GitHub repository you made for your shortcut. Go to releases and create a release.
 
 |               | Description                                                                                                   | Example                                                                                                                                                                                                                                                                                                                   |
 |---------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Release title | Enter a nice title for your shortcut release.                                              | TrollStore Checker 1.1                                                                                                                                                                                                                                                                                                     |
-| Tag (version)           | Enter the version info here. Tag should be the same as the version info you typed in the shortcut.| 1.1                                                                                                                                                                                                                                                                                                                       |
+| Tag (version)           | Enter the version number here. The tag should match the version number in the top dictionary in your shortcut.| 1.1                                                                                                                                                                                                                                                                                                                       |
 | Body          | Release body should include the shortcut iCloud link.| **TrollStore Checker 1.1** <br /> https://www.icloud.com/shortcuts/31e7a02165c6494b8eb557c1939e3020 <br />  <br /> # Changelog: <br /> - Updated TrollStore install methods. <br /> - Added support for iOS 15.6 beta. <br /> - Added support for iOS 15.5 RC, 15.6 RC 1/2. |
 
 # Note:

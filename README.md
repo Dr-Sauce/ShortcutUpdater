@@ -4,7 +4,7 @@ Update shortcuts using GitHub.
 
 Designed to work on iOS 15. (But also works on other versions)
 
-<img width="100" alt="0378ACF9-8014-4C25-8F72-80CD7E539E6B" src="https://user-images.githubusercontent.com/82555878/210124744-680186bc-e300-458f-9820-084acc4b0d09.png">
+<img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/6fd6e5d3-cde9-4030-a298-ead82ac2db6d" />
 
 # Features:
 - Check for updates.

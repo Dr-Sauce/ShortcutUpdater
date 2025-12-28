@@ -2,8 +2,6 @@
 
 Update shortcuts using GitHub.
 
-Designed to work on iOS 15. (But also works on other versions)
-
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/6fd6e5d3-cde9-4030-a298-ead82ac2db6d" />
 
 # Features:

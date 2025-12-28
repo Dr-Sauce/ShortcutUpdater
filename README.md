@@ -23,7 +23,7 @@ Designed to work on iOS 15. (But also works on other versions)
 | Version       | Enter the version of your shortcut.                                                              | 1.1                |
 | Github        | Enter your GitHub username.                                                                      | Dr-Sauce           |
 | Repository    | Enter your shortcut repository name on GitHub.                                                   | TrollStoreChecker  |
-| icon          | Shortcut icon that appears in menus. (Icon needs to be encoded with base64.)                     |                    |
+| icon          | Shortcut icon that appears in menus. (Icon needs to be encoded with base64. You can do it with [this](https://www.icloud.com/shortcuts/609ab31889194189be9bb60c5f62263b) shortcut.)                     |                    |
 
 4. Open `Share` sheet and click `Copy iCloud link`.
 
